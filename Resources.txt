@@ -2,7 +2,7 @@ Account Wordpress
 User: Devjim
 Pass: kQ299tZJAP(#QcPazN
 
-d
+
 
 - Resources
 https://drive.google.com/drive/folders/1heAzJaaYhAiJSg4T5FwRcEMFU1XudtnO?usp=sharing
