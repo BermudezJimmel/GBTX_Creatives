@@ -14,3 +14,7 @@ tut
 - Resources
 https://drive.google.com/drive/folders/1heAzJaaYhAiJSg4T5FwRcEMFU1XudtnO?usp=sharing
 Divi Key - 922aeebdb812a8aa626e6cb75f84e90ca25a34da
+
+
+-color Gradient
+    - #000046 - #1CB5E0
